@@ -7,7 +7,7 @@
 # MAGIC * Flatten the data structure to tabular format
 # MAGIC * Produce descriptive statistics on the dataset
 # MAGIC * Visualize data elements within the dataset
-# MAGIC * Perform an ANOVA test on two data elements
+# MAGIC * Perform a Chi-squared test on two data elements
 
 # COMMAND ----------
 
